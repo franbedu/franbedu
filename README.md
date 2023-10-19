@@ -1,5 +1,6 @@
-<img align="right" alt="Coding" src="https://i.makeagif.com/media/11-09-2017/C9S09n.gif">
-
+<p align="center">
+<img align="center" alt="Coding" src="https://i.makeagif.com/media/11-09-2017/C9S09n.gif">
+</p>
 
 <h1 align="center">Hi 👋, I'm Franco Beducci</h1>
 <h3 align="center">A student of Computer Science at Universidad Nacional de La Plata.</h3>
