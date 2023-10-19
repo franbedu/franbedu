@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://i.makeagif.com/media/11-09-2017/C9S09n.gif">
+<img align="center" alt="Coding" width="100%" src="https://i.makeagif.com/media/11-09-2017/C9S09n.gif">
 
 
 <h1 align="center">Hi 👋, I'm Franco Beducci</h1>
